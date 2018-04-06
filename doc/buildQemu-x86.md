@@ -1,4 +1,4 @@
-# Build of Toolchain
+# Build of Toolchain for Qemu-x86 (i586)
 
 ## 1. Install Dependencies
 
